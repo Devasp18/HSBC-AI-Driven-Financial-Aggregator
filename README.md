@@ -18,8 +18,8 @@ It leverages Artificial Intelligence techniques to provide insights, predictions
 
 ## Technologies Used
 - **Frontend:** React / Flutter (specify which one you used)  
-- **Backend:** Node.js / Python Flask (specify)  
-- **Database:** MySQL / MongoDB (specify)  
+- **Backend:** Node.js 
+- **Database:** MySQL 
 - **AI/ML:** Python (scikit-learn, pandas, numpy)  
 - **Version Control:** Git & GitHub  
 
