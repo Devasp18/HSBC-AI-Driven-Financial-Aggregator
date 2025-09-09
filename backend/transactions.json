@@ -1,0 +1,84 @@
+ [ {
+    "Sender" : "Gaurav Patil",
+    "Reciever" : "Harshal Patil",
+    "Amount" : 5000,
+    "TransactionType" : "Credit",
+    "TransactionId" : "12345670",
+    "TimeStamp" : "20/06/2025",
+    "Status" :"Success",
+    "Platform" : "GPay",
+    "Balance" : 15000,
+    "Decription" : "Payement for Hostel Rent"
+
+  },
+
+  {
+    "Sender" : "Mukesh Shinde",
+    "Reciever" : "Prasad Chinchole",
+    "Amount" : 20000,
+    "TransactionType" : "Debit",
+    "TransactionId" : "12345678",
+    "TimeStamp" : "21/06/2025",
+    "Status" :"Pending",
+    "Platform" : "PhonePay",
+    "Balance" : 5000,
+    "Decription" : "Hostel Fee Payment"
+
+  },
+
+
+  {
+    "Sender" : "Vinit Mahajan",
+    "Reciever" : "Vedant Mahajan",
+    "Amount" : 40000,
+    "TransactionType" : "Credit",
+    "TransactionId" : "12345679",
+    "TimeStamp" : "01/07/2025",
+    "Status" :"Success",
+    "Platform" : "Gpay",
+    "Balance" : 30000,
+    "Decription" : "Tuition Fee Payment"
+
+  },
+
+  {
+    "Sender" : "Sanket Chaudhari",
+    "Reciever" : "Ankit Pandey",
+    "Amount" : 5000,
+    "TransactionType" : "Debit",
+    "TransactionId" : "12345677",
+    "TimeStamp" : "22/06/2025",
+    "Status" :"Failed",
+    "Platform" : "Gpay",
+    "Balance" : 115000,
+    "Decription" : "University Exam Fee"
+
+  },
+
+
+  {
+    "Sender" : "Nilesh Bhagat",
+    "Reciever" : "Dhruvesh Patil",
+    "Amount" : 5000,
+    "TransactionType" : "Credit",
+    "TransactionId" : "12345671",
+    "TimeStamp" : "26/06/2025",
+    "Status" :"Success",
+    "Platform" : "Phone Pay",
+    "Balance" : 15000,
+    "Decription" : "Room Rent"
+
+  },
+{
+    "Sender" : "Manav Chaudhari",
+    "Reciever" : "Bhavesh Patil",
+    "Amount" : 1000,
+    "TransactionType" : "Credit",
+    "TransactionId" : "12345672",
+    "TimeStamp" : "29/06/2025",
+    "Status" :"Success",
+    "Platform" : "Gpay",
+    "Balance" : 5000,
+    "Decription" : "Payment of Grocery"
+
+  } ]
